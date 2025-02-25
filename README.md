@@ -10,4 +10,4 @@ A Python-based tool to hide secret messages in images using steganography.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Steganography-Project.git
+   git clone https://github.com/mahesh-space/Steganography-Project.git
